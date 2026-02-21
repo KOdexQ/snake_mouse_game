@@ -33,9 +33,19 @@ A simple **Python game** built with `pygame` where you control a mouse trying to
 - `pygame` library  
 
 Install pygame using:
-
-```bash
 pip install pygame
-<img width="873" height="574" alt="image" src="https://github.com/user-attachments/assets/0bbe3b69-a325-4e70-8de6-706df52eedc1" />
+
+HOW TO RUN:
+CLONE THIS REPO:
+git clone https://github.com/KOdexQ/snake_mouse_game.git
+
+GO INSIDE THE PROJECT FOLDER:
+cd snake_mouse_game
+
+RUN THE GAME :
+python snake_mouse_game.py
+
+
+
 
 
